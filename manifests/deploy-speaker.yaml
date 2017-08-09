@@ -39,8 +39,6 @@ spec:
           items:
             - key: keystore.xml
               path: defaults/keystore.xml
-            - key: logging.xml
-              path: defaults/logging.xml
 ---
 apiVersion: v1
 kind: Service
